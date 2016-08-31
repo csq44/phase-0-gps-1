@@ -1,3 +1,10 @@
+# AWESOME-PAGE
+## By Dylan and Christopher
 
-DELIBERATE SMALL CONFLICT
+** It's awesome! **
 
+_really awesome_
+
+~~~~awesome code block~~~~
+
+[Github](https://github.com/)
